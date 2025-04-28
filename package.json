@@ -1,6 +1,7 @@
 {
   "name": "react-calculator",
   "version": "0.1.0",
+<<<<<<< HEAD
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
@@ -36,4 +37,7 @@
       "last 1 safari version"
     ]
   }
+=======
+  "private": true
+>>>>>>> 625e85b673c234316047579a137b3947d2592ebf
 }
